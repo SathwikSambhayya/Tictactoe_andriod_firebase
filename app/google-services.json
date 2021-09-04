@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558287133312",
+    "project_id": "onlinetictactoe-multiplayer",
+    "storage_bucket": "onlinetictactoe-multiplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558287133312:android:38fa18b593dff984982465",
+        "android_client_info": {
+          "package_name": "com.example.onlinetictactoe_multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558287133312-45mdapiselhtbs5el4akg4o7dj7cov1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPO7QfgqIIASIDYLN69t6gesD9L90LFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558287133312-45mdapiselhtbs5el4akg4o7dj7cov1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
